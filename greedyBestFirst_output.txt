@@ -1,0 +1,2 @@
+The output for the Greedy Best First algorithm is:
+R-R-R-D-D-D-R-R-D-D 30
